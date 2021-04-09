@@ -1,7 +1,7 @@
 # Clase 100
 ## Practica UseEffect
 
-Para esta clase usaremos React para comunicarnos con una API de noticias. Podes basarte en el siguiente sitio: https://news-api-ada-5ta.netlify.app/
+Para esta clase usaremos React para comunicarnos con una API de noticias. Podes basarte en el siguiente sitio: https://github.com/malerey/news-api
 
 Vas a necesitar registrarte en http://newsapi.org/ y obtener una Api Key. 
 
